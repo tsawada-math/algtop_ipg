@@ -106,7 +106,7 @@ Since the map $y \mapsto \mu(e,y)$ is homotopic to the identity, the map $\tilde
 % Since the diagram commutes, $\tilde{H}(\tilde{x},0) = \tilde{\mu}(\tilde{e}, \tilde{x})$
 
 
-
+% topological groups
 
 
 	
@@ -114,6 +114,39 @@ Since the map $y \mapsto \mu(e,y)$ is homotopic to the identity, the map $\tilde
 
 
 
+
+\begin{problem}[3.C.5]
+Let $(X,e,\mu)$ be a Hopf space. Define the map 
+
+\begin{equation}
+	F: [0,1]^2 \to X
+\end{equation}
+
+\begin{equation}
+	(s,t) \mapsto \mu(f(s),g(t))
+\end{equation}
+
+where $f,g$ are loops based at $e$. Observe that 
+
+\begin{equation}
+	F(s,0) = F(s,1) = \mu(f(s),e) \simeq f(s)
+\end{equation}
+
+\begin{equation}
+	F(0,t) = F(1,t) = \mu(e,g(t)) \simeq g(t)
+\end{equation}
+
+Diagrammatically, we have: 
+
+\begin{figure}[h]
+\caption{Domain of the function $F$. $F$ is homotopic to $f$ on the top and bottom edges, and it is homotopic to $g$ on the left and right edges. To obtain a homotopy between $f\cdot g$ and $g\cdot f$, just consider the straightline homotopy along the diagonal.}
+\centering
+\includegraphics[width=0.5\textwidth]{image/3c5_hom_on_square.png}
+\end{figure}
+
+
+Then compose $F$ with the straightline homotopy parallel to the line $y = -x$. This gives the desired homotopy.\qed
+\end{problem}
 
 
 

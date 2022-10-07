@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1665106158 "meeting_1.tex" "meeting_1.pdf" "meeting_1" 1665106159
+["pdflatex"] 1665108499 "meeting_1.tex" "meeting_1.pdf" "meeting_1" 1665108500
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -26,6 +26,7 @@
   "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -80,11 +81,12 @@
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "image/3c4_homotopy_lift.png" 1665105918 107086 974f297c7a0fb04726632c4ed3bfe474 ""
   "image/3c4_mutilde_def.png" 1665104597 84240 84af0493f58aa0bb25ed947438eef67a ""
-  "meeting_1.aux" 1665106159 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "meeting_1.out" 1665106158 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "meeting_1.tex" 1665106142 2850 b9d27d5505d22ba14f9216801e8abcf0 ""
+  "image/3c5_hom_on_square.png" 1665108362 144812 29f1abab3d009861ba88c9ec942e087b ""
+  "meeting_1.aux" 1665108500 1025 b830afcc87c409e11777c62bf7853a6b "pdflatex"
+  "meeting_1.out" 1665108499 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "meeting_1.tex" 1665108499 3794 4c26479f7605761ff668b81b70b1576a ""
   (generated)
-  "meeting_1.out"
-  "meeting_1.pdf"
   "meeting_1.log"
+  "meeting_1.pdf"
   "meeting_1.aux"
+  "meeting_1.out"

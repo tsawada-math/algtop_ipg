@@ -1,4 +1,4 @@
-PWD /Users/tomohirosawada/Library/Mobile Documents/com~apple~CloudDocs/From_Desktop/courses/alg_top_group/solution/tex
+PWD /Users/tomohirosawada/Library/Mobile Documents/com~apple~CloudDocs/From_Desktop/courses/alg_top_group/solution/main/tex
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -145,6 +145,9 @@ INPUT image/3c4_homotopy_lift.png
 INPUT ./image/3c4_homotopy_lift.png
 INPUT ./image/3c4_homotopy_lift.png
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT image/3c5_hom_on_square.png
+INPUT ./image/3c5_hom_on_square.png
+INPUT ./image/3c5_hom_on_square.png
 INPUT meeting_1.aux
 INPUT ./meeting_1.out
 INPUT ./meeting_1.out
@@ -153,4 +156,5 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
